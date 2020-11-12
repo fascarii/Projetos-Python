@@ -1,2 +1,3 @@
 # Projetos Python
- Primeiro repositório no Github.
+
+Repósitorio criado para armazenar meus projetos inicias em Python.
