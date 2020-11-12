@@ -10,7 +10,7 @@ print(30 * "*", "\n")
 # número que deverá ser adivinhado
 numero_secreto = 30
 
-# variáveis sobvre a dinâmica do jogo
+# variáveis sobre a dinâmica do jogo
 total_de_tentativas = 3
 rodada = 1
 pontos = 1000
