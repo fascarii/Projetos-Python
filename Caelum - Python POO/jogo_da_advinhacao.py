@@ -23,7 +23,7 @@ nivel = int(
             [ 1 ] Fácil   - 20 tentativas
             [ 2 ] Médio   - 10 tentativas
             [ 3 ] Difícil -  5 tentativas\n\nNÍVEL>> """
-        )
+    )
 )
 
 # variáveis nivel de dificuldade
