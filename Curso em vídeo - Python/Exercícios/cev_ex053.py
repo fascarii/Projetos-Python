@@ -15,7 +15,7 @@ palavras = frase.split()
 # junta as palavras da lista criando uma unica string sem espaços
 junto = ''.join(palavras)
 
-# variavel que receberá o inverso da frase
+# variável que receberá o inverso da frase
 inverso = ''
 
 # inverte a ordem das letras da variável 'junto'
