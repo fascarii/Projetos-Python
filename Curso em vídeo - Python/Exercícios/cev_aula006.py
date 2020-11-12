@@ -1,0 +1,6 @@
+n = input('Insira um dado:')
+print('O dado inserido é da classe',type(n))
+print('O dado inserido é do tipo numérico?', n.isnumeric())
+print('O dado inserido é do tipo alfabeto?', n.isalpha())
+print('O dado inserido é do tipo alfanumérico?', n.isalnum())
+print('Há alguma letra minúscula no dado inserido?', n.islower())

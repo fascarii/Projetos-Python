@@ -1,0 +1,6 @@
+{
+    "python.formatting.provider": "black",
+    "editor.fontSize": 16,
+    "editor.cursorStyle":"line-thin"
+
+}
