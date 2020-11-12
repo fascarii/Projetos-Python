@@ -1,0 +1,7 @@
+{
+    "python.formatting.provider": "autopep8",
+    "editor.fontSize": 16,
+    "editor.cursorStyle": "line-thin",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
